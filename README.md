@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MattRogue
-- 👀 I’m interested in the digital world and other computer-related engineering
-- 🌱 I’m currently learning Python and React Native
-- 💞️ I’m looking to collaborate on Github and Discord for projects and to simply discuss codes
-- 📫 Discord: Matt Rogue#6197
+- 👀 I’m interested in automating your day-to-day life! 😆 
+- 🌱 I’m currently learning Python
+- 📫 Message me on Discord! My tag is mattrogue.
 
 <!---
 MattRogue/MattRogue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
